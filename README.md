@@ -3,6 +3,12 @@
 
 ---
 
+This list aims to help practitioners (including myself!) navigate the vast landscape of large language models (LLMs) and their applications in natural language processing (NLP) applications.
+
+**Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please consult an attorney before using models for commercial purposes.
+
+---
+
 # Table of contents
 <!-- no toc -->
 
@@ -45,10 +51,6 @@
     - [Planning for Complex Task Solving](#planning-for-complex-task-solving)
   - [Capacity Evaluation](#capacity-evaluation)
 - [GitHub repos](#github-repos)
-
-This list aims to help practitioners (including myself!) navigate the vast landscape of large language models (LLMs) and their applications in natural language processing (NLP) applications.
-
-**Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please consult an attorney before using models for commercial purposes.
 
 # Evolution of LLMs
 

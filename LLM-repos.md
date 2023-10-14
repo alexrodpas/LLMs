@@ -19,6 +19,7 @@ This list of GitHub repos is a compilatiopn of surveys, collections of models an
 
 ## LLM Resources
 
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama): __Code Llama__ is a family of LLMs for code based on __Llama 2__, providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm): A collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [yrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): __[LangChain](https://www.langchain.com/)__ is an amazing framework to get LLM projects done in a short time and whose ecosystem is growing fast. This repo is an attempt to keep track of the initiatives around LangChain.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The original __LangChain__ GitHub repo.

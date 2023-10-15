@@ -16,7 +16,6 @@ This list of GitHub repos is a compilation of surveys, collections of models and
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of papers about LLMs, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLMs, courses and tutorials about LLMs and all publicly available LLM checkpoints and APIs.
 - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo): LLM Zoo is a project that provides data, models, and evaluation benchmarks for LLMs.
 
-
 ## LLM Resources
 
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama): __Code Llama__ is a family of LLMs for code based on __Llama 2__, providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.
@@ -31,4 +30,3 @@ This list of GitHub repos is a compilation of surveys, collections of models and
 -[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm): Machine Learning Compilation for Large Language Models (MLC LLM) is a high-performance universal deployment solution that allows native deployment of any large language models with native APIs with compiler acceleration. The mission of this project is to enable everyone to develop, optimize and deploy AI models natively on everyone's devices with ML compilation techniques.
 - [openai/evals](https://github.com/openai/evals): __Evals__ is a framework for evaluating LLMs or systems built using LLMs as components. It also includes an open-source registry of challenging evals. Evals now support evaluating the behavior of any system including prompt chains or tool-using agents, via the Completion Function Protocol. With Evals, OpenAI aims to make it as simple as possible to build an "eval" (a task used to evaluate the quality of a system's behavior) while writing as little code as possible.
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into __scikit-learn__ for enhanced text analysis tasks.
-

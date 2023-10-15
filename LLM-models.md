@@ -42,6 +42,10 @@ In what we could dub a Second Phase of the LLM era, the first **LLaMA** family o
 1. Code LlaMA - Python, specialized for Python; and
 1. Code LlaMA - Instruct, which is fine-tuned for understanding natural language instructions.
 
+The following figure shows the derivation of these 3 models from the LLaMA 2 foundational model:
+
+![Code_LLaMA_family](imgs/Code_Llama.jpg)
+
 The following figure shows an evolutionary tree of the research work conducted on LLaMA models.
 
 ![LLaMA_family](imgs/llama-tree.png)

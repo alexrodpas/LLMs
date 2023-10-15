@@ -41,6 +41,7 @@ Kudos to [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey), an amazing
 
 ## Open-Source Models
 
+1. <u>Mistral-7B</u>: **"Mistral 7B"**. *Albert Q. Jiang et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2310.06825)] [[Checkpoint](https://github.com/mistralai/mistral-src)]
 1. <u>LLaMA</u>: **"LLaMA: Open and Efficient Foundation Language Models"**. *Hugo Touvron et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13971v1)] [[Checkpoint](https://github.com/facebookresearch/llama)]
 1. <u>Pythia</u>: **"Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"**. *Stella Biderman et al.* . arXiv 2023. [[Paper](https://arxiv.org/abs/2304.01373)] [[Checkpoint](https://github.com/EleutherAI/pythia)]
 1. <u>CodeGeeX</u>: **"CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X"**. *Qinkai Zheng et al.* . arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17568)] [[Checkpoint](https://github.com/THUDM/CodeGeeX)]

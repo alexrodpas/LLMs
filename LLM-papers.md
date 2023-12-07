@@ -37,6 +37,10 @@ Kudos to [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey), an amazing
   - [Planning for Complex Task Solving](#planning-for-complex-task-solving)
 - [Model Evaluation](#model-evaluation)
 
+# Comprehensive overviews and surveys
+
+1. **"A Comprehensive Overview of Large Language Models"**. *Humza Naveed et al (2023)*. [[Paper](https://arxiv.org/abs/2307.06435)]
+
 # Models, Corpora and Frameworks
 
 ## Open-Source Models
